@@ -34,3 +34,5 @@ The application is capable of detecting human objects from CCTV or video input i
 ```bash
 git clone https://github.com/yourusername/cctvmonitor-yolov8.git
 cd cctvmonitor-yolov8
+pip install -r requirements.txt
+python main.py
