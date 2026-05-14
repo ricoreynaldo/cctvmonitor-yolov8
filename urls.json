@@ -1,0 +1,10 @@
+{
+    "Cam1": ["C:\\Users\\LENOVO\\Documents\\Skripsi\\Video\\1.mp4"],
+    "Cam2": ["C:\\Users\\LENOVO\\Documents\\Skripsi\\Video\\2.mp4"],
+    "Cam3": ["C:\\Users\\LENOVO\\Documents\\Skripsi\\Video\\3.mp4"],
+    "Cam4": ["C:\\Users\\LENOVO\\Documents\\Skripsi\\Video\\4.mp4"],
+    "Cam5": ["C:\\Users\\LENOVO\\Documents\\Skripsi\\Video\\5.mp4"],
+    "IP_Webcam": ["http://10.28.50.48:8080/video"]
+}   
+
+
